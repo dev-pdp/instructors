@@ -2,6 +2,14 @@
 A list of my favorite web development instructors:
 - Anthony Alicea
 - Dev Ed
+  - [Website](https://developedbyed.com/)
+  - [YouTube](https://www.youtube.com/c/dev_ed)
+  - [Twitter](https://twitter.com/developedbyed)
+  - [GitHub](https://github.com/developedbyed)
+  - [Udemy](https://www.udemy.com/user/simo-edwin/)
+  - [Instagram](https://www.instagram.com/developedbyed/)
+  - [Facebook](https://www.facebook.com/simo.edwin/)
+  - [LinkedIn](https://de.linkedin.com/in/simo-edwin-57a25714b)
 - Edwin Diaz
 - Stephen Grider
 - Mosh Hamedani
@@ -14,5 +22,10 @@ A list of my favorite web development instructors:
 - Jonas Schmedtmann
 - Maximilian Schwarzmuller
 - Colt Steele
+  - [YouTube](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw)
+  - [Udemy](https://www.udemy.com/user/coltsteele/)
+  - [Course Links](https://linktr.ee/coltsteele)
+  - [LinkedIn](https://www.linkedin.com/in/coltsteele)
+  - [GitHub](https://github.com/Colt)
 - Brad Traversy
 - Angela Yu
