@@ -21,6 +21,17 @@ A list of my favorite web development instructors:
 - Brad Schiff
 - Jonas Schmedtmann
 - Maximilian Schwarzmuller
+  - [Udemy](https://www.udemy.com/user/maximilian-schwarzmuller/)
+  - [Website](https://academind.com/)
+  - [Twitter](https://twitter.com/maxedapps)
+  - [Facebook](https://www.facebook.com/academindchannel)
+  - [LinkedIn](https://www.linkedin.com/in/maximilian-schwarzmueller)
+  - [YouTube](https://www.youtube.com/c/academind)
+  - [Twitter 2](https://twitter.com/academind_real)
+  - [Instagram](https://www.instagram.com/academind_real/)
+  - [LinkedIn 2](https://www.linkedin.com/school/academind-pro)
+  - [GitHub](https://github.com/academind)
+  - [Discord](https://discord.gg/gxvEWGU)
 - Colt Steele
   - [YouTube](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw)
   - [Udemy](https://www.udemy.com/user/coltsteele/)
