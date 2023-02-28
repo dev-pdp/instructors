@@ -33,6 +33,7 @@ A list of my favorite web development instructors:
   - [GitHub](https://github.com/academind)
   - [Discord](https://discord.gg/gxvEWGU)
   - [LinkedIn 3](https://www.linkedin.com/in/manuel-lorenz-808b5185)
+  - [GitHub 2](https://github.com/maxschwarzmueller)
 - Colt Steele
   - [YouTube](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw)
   - [Udemy](https://www.udemy.com/user/coltsteele/)
