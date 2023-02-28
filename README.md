@@ -43,3 +43,4 @@ A list of my favorite web development instructors:
   - [GitHub](https://github.com/Colt)
 - Brad Traversy
 - Angela Yu
+- Florin Pop
