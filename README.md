@@ -22,6 +22,7 @@ A list of my favorite web development instructors:
 - Jonas Schmedtmann
 - Maximilian Schwarzmuller
   - [Udemy](https://www.udemy.com/user/maximilian-schwarzmuller/)
+  - [Udemy 2](https://www.udemy.com/user/academind/)
   - [Website](https://academind.com/)
   - [Twitter](https://twitter.com/maxedapps)
   - [Twitter 2](https://twitter.com/academind_real)
