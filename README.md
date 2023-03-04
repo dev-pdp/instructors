@@ -1,5 +1,5 @@
 # Instructors
-A list of my favorite web development instructors:
+A list of my top 10 favorite web development instructors on Udemy:
 - Anthony Alicea
 - Stephen Grider
 - Mosh Hamedani
