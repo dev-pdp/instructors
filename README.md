@@ -1,15 +1,6 @@
 # Instructors
 A list of my favorite web development instructors:
 - Anthony Alicea
-- Dev Ed
-  - [Website](https://developedbyed.com/)
-  - [YouTube](https://www.youtube.com/c/dev_ed)
-  - [Twitter](https://twitter.com/developedbyed)
-  - [GitHub](https://github.com/developedbyed)
-  - [Udemy](https://www.udemy.com/user/simo-edwin/)
-  - [Instagram](https://www.instagram.com/developedbyed/)
-  - [Facebook](https://www.facebook.com/simo.edwin/)
-  - [LinkedIn](https://de.linkedin.com/in/simo-edwin-57a25714b)
 - Stephen Grider
 - Mosh Hamedani
 - Andrew Mead
