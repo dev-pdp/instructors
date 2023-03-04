@@ -5,7 +5,6 @@ A list of my favorite web development instructors:
 - Mosh Hamedani
 - Andrew Mead
 - Andrei Neagoie
-- Shaun Pelling (The Net Ninja)
 - Jonas Schmedtmann
 - Maximilian Schwarzmuller
   - [Udemy](https://www.udemy.com/user/maximilian-schwarzmuller/)
