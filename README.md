@@ -15,28 +15,35 @@ A list of my top 10 favorite web development instructors on Udemy:
   - Node.js
   - React
 - Andrew Mead
+  - JavaScript
+  - Node.js
+  - React
 - Andrei Neagoie
+  - JavaScript
+  - Node.js
+  - React
 - Jonas Schmedtmann
+  - HTML and CSS
+  - JavaScript
+  - Node.js
 - Maximilian Schwarzmuller
-  - [Udemy](https://www.udemy.com/user/maximilian-schwarzmuller/)
-  - [Udemy 2](https://www.udemy.com/user/academind/)
-  - [Website](https://academind.com/)
-  - [Twitter](https://twitter.com/maxedapps)
-  - [Twitter 2](https://twitter.com/academind_real)
-  - [Facebook](https://www.facebook.com/academindchannel)
-  - [LinkedIn](https://www.linkedin.com/in/maximilian-schwarzmueller)
-  - [LinkedIn 2](https://www.linkedin.com/school/academind-pro)
-  - [LinkedIn 3](https://www.linkedin.com/in/manuel-lorenz-808b5185)
-  - [YouTube](https://www.youtube.com/c/academind)
-  - [Instagram](https://www.instagram.com/academind_real/)
-  - [GitHub](https://github.com/academind)
-  - [GitHub 2](https://github.com/maxschwarzmueller)
-  - [Discord](https://discord.gg/gxvEWGU)
+  - CSS
+  - JavaScript
+  - Node.js
+  - TypeScript
+  - React
+  - MongoDB
 - Colt Steele
-  - [YouTube](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw)
-  - [Udemy](https://www.udemy.com/user/coltsteele/)
-  - [Course Links](https://linktr.ee/coltsteele)
-  - [LinkedIn](https://www.linkedin.com/in/coltsteele)
-  - [GitHub](https://github.com/Colt)
+  - HTML and CSS
+  - JavaScript
+  - TypeScript
+  - React
 - Brad Traversy
+  - HTML and CSS
+  - JavaScript
+  - Node.js
+  - React
 - Angela Yu
+  - HTML and CSS
+  - JavaScript
+  - React
