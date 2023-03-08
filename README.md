@@ -1,7 +1,16 @@
 # Instructors
 A list of my top 10 favorite web development instructors on Udemy:
 - Anthony Alicea
+  - HTML and CSS
+  - JavaScript
+  - Node.js
+  - HTML and CSS
 - Stephen Grider
+  - JavaScript
+  - TypeScript
+  - React
+  - Node.js
+  - MongoDB
 - Mosh Hamedani
 - Andrew Mead
 - Andrei Neagoie
