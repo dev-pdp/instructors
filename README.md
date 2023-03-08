@@ -11,6 +11,9 @@ A list of my top 10 favorite web development instructors on Udemy:
   - Node.js
   - MongoDB
 - Mosh Hamedani
+  - JavaScript
+  - Node.js
+  - React
 - Andrew Mead
 - Andrei Neagoie
 - Jonas Schmedtmann
