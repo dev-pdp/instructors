@@ -39,10 +39,27 @@ A list of my top 10 favorite web development instructors on Udemy:
   - TypeScript
   - React
 - Brad Traversy
-  - HTML and CSS
-  - JavaScript
-  - Node.js
-  - React
+  - Modern JavaScript from the Beginning 2.0 (2023) - Traversy Media [*]
+  - Tailwind CSS from Scratch | Learn by Building Projects (2022) - Udemy
+  - Modern HTML and CSS from the Beginning (including Sass) (2022) - Udemy [*]
+  - React Front to Back (2022) - Udemy
+  - MERN Ecommerce from Scratch (2022) - Udemy
+  - Freelance Mastery : For Web Developers & Designers (2022) - Udemy
+  - React Front to Back (2021) - Udemy [*]
+  - Django with React | An Ecommerce Website (2021) - Udemy
+  - Next.js Dev to Deployment (2021) - Udemy
+  - 50 Projects in 50 Days - HTML, CSS & JavaScript (2020) - Udemy
+  - 20 Web Projects with Vanilla JavaScript (2020) - Udemy [*]
+  - Electron from Scratch: Build Desktop Apps with JavaScript (2020) - Udemy
+  - Modern JavaScript from the Beginning (2019) - Udemy [*]
+  - MERN Stack Front to Back: Full Stack React, Redux & Node.js (2019) - Udemy [*]
+  - Node.js Masterclass with Express & MongoDB (2019) - Udemy [*]
+  - Materialize CSS From Scratch with 5 Projects (2018) - Udemy [*]
+  - Bootstrap 4 from Scratch with 5 Projects (2018) - Udemy [*]
+  - Angular Front to Back (2018) - Udemy [*]
+  - Python Django Dev to Deployment (2018) - Udemy [*]
+  - Object Oriented PHP and MVC (2017) - Udemy [*]
+  - Nearly 100 various courses on Eduonix
 - Angela Yu
   - HTML and CSS
   - JavaScript
